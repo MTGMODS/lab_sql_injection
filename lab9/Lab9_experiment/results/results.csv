@@ -1,0 +1,24 @@
+series,archive,password,length,alphabet_size,space_N,time_MS,speed_pwd_per_sec,found in cycle,range options,lenght options
+A_digits,A1_len1.zip,1,1,10,10,7,142,1,(0-9),1 - 4
+A_digits,A2_len2.zip,12,2,10,100,12,1750,21,(0-9),1 - 4
+A_digits,A3_len3.zip,123,3,10,1000,14,16500,321,(0-9),1 - 4
+A_digits,A4_len4.zip,1234,4,10,10000,19,123210,2341,(0-9),1 - 4
+A_digits,A5_len5.zip,12345,5,10,100000,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT
+A_digits,A6_len6.zip,123456,6,10,1000000,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT
+B_mixed,B3_len3.zip,A1b,3,62,238328,9,799223,7193,"(0-9),  (A-Z) , (a-z)",1 - 4
+B_mixed,B4_len4.zip,A1b2,4,62,14776336,26,17216961,447641,"(0-9),  (A-Z) , (a-z)",1 - 4
+B_mixed,B5_len5.zip,A1b2C,5,62,916132832,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT,TRIAL VER 4 LENGHT
+C_layout,C1_len4.zip,ntcn (тест на укр),6,26,308915776,71242,124766,9712089,"(0-9),  (A-Z) , (a-z)",1 - 4
+,,,,,,,,,,
+,,,,,,,,,,
+series,archive,password,length,alphabet_size,space_N,time_MS,speed_pwd_per_sec,-,-,-
+A_digits,A1_len1.zip,1,1,10,10,15,66,,,
+A_digits,A2_len2.zip,12,2,10,100,13,153,,,
+A_digits,A3_len3.zip,123,3,10,1000,14,200,,,
+A_digits,A4_len4.zip,1234,4,10,10000,16,250,,,
+A_digits,A5_len5.zip,12345,5,10,100000,16,312,,,
+A_digits,A6_len6.zip,123456,6,10,1000000,17,375,,,
+B_mixed,B3_len3.zip,A1b,3,62,238328,16,937,,,
+B_mixed,B4_len4.zip,A1b2,4,62,14776336,16,1000,,,
+B_mixed,B5_len5.zip,A1b2C,5,62,916132832,17,1000,,,
+C_layout,C1_len4.zip,ntcn (тест на укр),6,26,308915776,143,125,,,
