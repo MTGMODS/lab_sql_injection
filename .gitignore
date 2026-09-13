@@ -1,5 +1,6 @@
-/vulnerable/data/
-/secure/data/
+lab10/vulnerable/data/
+lab10/secure/data/
+**/data/*.db
 *.db
 .DS_Store
 Thumbs.db
